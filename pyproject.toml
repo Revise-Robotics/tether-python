@@ -1,5 +1,5 @@
 [project]
-name = "tether"
+name = "tether-arduino"
 version = "0.1.0"
 description = "Lightweight JSON-RPC client for Arduino over serial"
 requires-python = ">=3.9"
