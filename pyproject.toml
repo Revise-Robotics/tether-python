@@ -31,6 +31,9 @@ Homepage = "https://github.com/Revise-Robotics/tether-python"
 Repository = "https://github.com/Revise-Robotics/tether-python"
 Issues = "https://github.com/Revise-Robotics/tether-python/issues"
 
+[tool.hatch.build.targets.wheel]
+packages = ["tether"]
+
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
