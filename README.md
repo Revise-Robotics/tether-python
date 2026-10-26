@@ -6,8 +6,8 @@ Pair with [tether-arduino](https://github.com/Revise-Robotics/tether-arduino) on
 
 ## Install
 
-```
-pip install tether
+```sh
+pip install tether-arduino
 ```
 
 ## Usage
